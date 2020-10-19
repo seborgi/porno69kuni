@@ -11,7 +11,7 @@ text="white">
 <li><img src="image/logo.png" alt="твои родители случайно не производители котлеты?"></li>
 <li><img src="image/1.jpg" alt="твои родители случайно не производители котлеты?"></li>
 <li><img src="image/2.jpg" alt="твои родители случайно не производители котлеты?"></li>
-<li><img src="image/3.jpg" alt="твои роде производители котлеты?"></li>
+<li><img src="image/3.jpg" alt="?"></li>
 <li><img src="image/4.jpg" alt="твои родители случайно не производители котлеты?"></li>
 <li><img src="aaa/ooo.png" alt="твои родители случайно не производители котлеты?"></li>
 <li><a href="https://vk.com/luciferizada">главная</a></li>
